@@ -23,3 +23,28 @@ h2
     margin-bottom: 20px;
     
 }
+.container {
+    width: 1100px;
+    
+    margin: 20px auto 0px auto;
+}
+
+.Birthday {
+    
+    width: 75%;
+    float: left;
+    padding-right: 20px;
+}
+
+.Dummy {
+    margin-bottom: 10px;
+    
+    width: 10%;
+    float: left;
+    padding-right: 20px;
+}
+
+.photo {
+    border-bottom: 1px solid #5a5353;
+    
+}
